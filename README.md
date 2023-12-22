@@ -9,3 +9,4 @@ Sharvinleon/Sharvinleon is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->https://drive.google.com/file/d/1Ds6vnRHAIvX3xSbM9M_1v1jjWekJgnRK/view?usp=drivesdk
 https://drive.google.com/file/d/1pfe99sbOOA7NtDNe-s1VieMdNp9yFdLD/view?usp=drivesdk
+gobuster dir -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt-u http://(ip)
